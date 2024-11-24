@@ -1,7 +1,12 @@
 # Mental_Distress_Detection_ML_NLP_LLM_AI
 # Thesis Implementation Documentation
 
-The whole implementation code files and artifacts can be found at: [Link]
+The whole implementation code files and artifacts can be found at: https://drive.google.com/drive/folders/1SJ3ps2Sufe-z_-EdVhQ6DUIKpy7ZNhhs?usp=sharing
+
+In total, around 32 models have been trained with various configurations and categories. It includes ML models (DT, SVM, RF, LR), NN model (CNN, RNN, LSTM) followed by DL models(BERT, Distil_BERT RoBERTA, Mental_BERT).
+ML and NN models are trained on all 4 feature representation techniques that includes TF-IDF, Word2Vec, GloVe and BERT_Embeddings.
+
+My Best Fine Tuned Language Model can also be found at: https://huggingface.co/slimshady07/Mental_BERT 
 
 ## Overview
 This document explains the folder structure and implementation details of the thesis project, along with instructions for reproducibility.
