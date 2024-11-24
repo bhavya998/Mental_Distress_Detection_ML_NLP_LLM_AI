@@ -1,4 +1,3 @@
-# Mental_Distress_Detection_ML_NLP_LLM_AI
 # Thesis Implementation Documentation
 
 The whole implementation code files and artifacts can be found at: https://drive.google.com/drive/folders/1SJ3ps2Sufe-z_-EdVhQ6DUIKpy7ZNhhs?usp=sharing
